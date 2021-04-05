@@ -5,3 +5,5 @@ third_number = input("Third input")
 # print here the sum of three inputs
 
 print(first_number+second_number)
+
+print(first_number+second_number+third_number)
